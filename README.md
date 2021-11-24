@@ -1,0 +1,2 @@
+# Mathematics-for-Computer-Graphics
+The course will equip and develop the mathematical foundation used in the field of Computer Graphics. Variety of mathematical core concepts and techniques are required to compose the computer graphics algorithms. Throughout the semester, students are shown the mathematical tools relevant to computer graphics which will guide them to solve the real mathematical problem in developing any Computer Graphics system.
